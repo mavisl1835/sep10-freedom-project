@@ -6,11 +6,12 @@ The topic I ultimately decided on is medical practice. The other two options I h
 
 Some sources I used include
 
-* [What is Medical Technology?](https://www.medtecheurope.org/about-the-industry/what-is-medical-technology/)
-* [Military Technology: A New Era of Defense to Protect Our Troops](https://www.captechu.edu/blog/military-technology-new-era-of-defense-protect-our-troops)
+* Medical Practice: [What is Medical Technology?](https://www.medtecheurope.org/about-the-industry/what-is-medical-technology/) by MedTech Europe
+* Military: [Military Technology: A New Era of Defense to Protect Our Troops](https://www.captechu.edu/blog/military-technology-new-era-of-defense-protect-our-troops)
 * [The Future of Cooking: Smart Kitchen Equipment and Gadgets](https://gourmetkitchenworks.com/blogs/recipes/the-future-of-cooking-smart-kitchen-equipment-and-gadgets?srsltid=AYCX9vKVd1LOpFGMNOr26iPCPr1GTDewgaluC0gQTEPtIE3QVspZbkS5)
 
 ## Engineering Design Process [EDP]
+I'm currently on the first step of the Engineering Design Process which is defining a problem. The problem is that **not a lot of people realize just how much medical technology can show up in daily lives, and that they're not limited to the hosputal setting.** The next step is to do research on the problem using articles and websites.
 
 [Next](entry02.md)
 
