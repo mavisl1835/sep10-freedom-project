@@ -7,12 +7,15 @@ Topic: **X**
 
 ## Part A: existing technology
 
-##### Software
+#### Software
+##### Used by doctors/professionals
 * Tech
   * Detail
   * [image text](image URL)
-
-##### Hardware
+##### Used by patients/in general
+*
+  *
+#### Hardware
 * Tech
   * Detail
   * [image text](image URL)
