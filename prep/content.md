@@ -1,9 +1,8 @@
 # Content
-Topic: **X**
+Topic: **Medical Practice**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+What technology and apps/websites do nurses and doctors use? Here's a general list of what they might use.
 
 ## Part A: existing technology
 
