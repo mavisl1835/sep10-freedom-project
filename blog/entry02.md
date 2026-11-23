@@ -27,6 +27,9 @@ I've been in a bit of a bind recently as I've got a lot on my plate to do. Durin
 #### Growth Mindset.
 Things have been a bit rough, and I'm still learning to be patient with myself and the work I'm doing. I remind myself to be patient because good results don't form in one night and it takes trial and error to get what we want.
 
+### What's Next?
+I'm probably going to start working on the webpage, or planning it out. I hope my schedule might be a bit clearer then.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
