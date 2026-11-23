@@ -11,7 +11,10 @@ Here are the websites I used to find the information.
 Now finding the information for this wasn't easy, I had to revise what I put in the search bar to find what I was looking for. Sometimes, nothing would pop up, so I had to put in a different input and hope that results would show up. Other times, none of the websites gave me the information I needed, so I combed through the best results to find a good source.
 
 ### Organizing the Info
-To organize the information I gathered, I searched up when they were created. Then, I 
+To organize the information I gathered, I searched up when they were created. I plan to organize them by time, on a spectrum.
+
+### EDP [Engineering Design Process]
+I'm on the second and third step of the engineering design process, researching the issue and coming up with a solution. I've already researched the information. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
